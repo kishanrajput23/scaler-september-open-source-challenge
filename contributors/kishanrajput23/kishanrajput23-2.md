@@ -1,3 +1,1 @@
-# Scaler Open Source September Challenge
-
-- Kishan Kumar Rai
+# Scaler Open Source Challenge
